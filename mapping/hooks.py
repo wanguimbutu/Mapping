@@ -1,7 +1,7 @@
 app_name = "mapping"
 app_title = "Mapping"
 app_publisher = "SkyLimit Management"
-app_description = "A sales tracking app that provides both customer and sales person location"
+app_description = "An application that provides customer locations and sales person realtime location"
 app_email = "wanguimbutu@gmail.com"
 app_license = "mit"
 

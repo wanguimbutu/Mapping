@@ -1,6 +1,6 @@
 ## Mapping
 
-A sales tracking app that provides both customer and sales person location
+An application that provides customer locations and sales person realtime location
 
 #### License
 
