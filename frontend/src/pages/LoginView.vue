@@ -16,8 +16,19 @@
 
 <script>
 export default{
-    name:'LoginView'
-
-   
+    name:'LoginView',
+    data(){
+        return{
+            input:{
+                username: "",
+                password: "",
+            }
+        }
+    },
+    methods:{
+        login(){
+            
+        }
+    }
 }
 </script>
